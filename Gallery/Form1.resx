@@ -120,12 +120,13 @@
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="Russia.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-        iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAABGdBTUEAALGPC/xhBQAAABJQTFRF////
-        wjcpBht5AABsABh+yzkfUzDJCgAAAPVJREFUeF7t0LEBgEAMAKHo6/4r2+dKWxiBGQAAAAAAAAAAAAAA
-        AAAAAAB+O2xzszkpJ+WknJSTclJOykk5KSflpJyUk3JSTspJOSkn5aSclJNyUk7KSTkpJ+WknJSTclJO
-        ykk5KSflpJyUk3JSTspJOSkn5aSclJNyUk7KSTkpJ+WknJSTclJOykk5KSc1D9u8bHOxOSkn5aSclJNy
-        Uk7KSTkpJ+WknJSTclJOykk5KSflpJyUk3JSTspJOSkn5aSclJNyUk7KSTkpJ+WknJSTclJOykk5KSfl
-        pJyUk3JSTspJOSkn5aSclJNyUk7KSTkpJ+WkPtoyzBugzXljAAAAAElFTkSuQmCC
+        iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAASUExURf///8I3KQYbeQAAbAAYfss5H1MwyQoAAAD1SURBVHhe7dCxAYBADACh6Ov+K9vnSlsY
+        gRkAAAAAAAAAAAAAAAAAAAAAfjtsc7M5KSflpJyUk3JSTspJOSkn5aSclJNyUk7KSTkpJ+WknJSTclJO
+        ykk5KSflpJyUk3JSTspJOSkn5aSclJNyUk7KSTkpJ+WknJSTclJOykk5KSflpJyUk3JSTspJOSknNQ/b
+        vGxzsTkpJ+WknJSTclJOykk5KSflpJyUk3JSTspJOSkn5aSclJNyUk7KSTkpJ+WknJSTclJOykk5KSfl
+        pJyUk3JSTspJOSkn5aSclJNyUk7KSTkpJ+WknJSTclJOykk5KSflpD7aMswboM15YwAAAABJRU5ErkJg
+        gg==
 </value>
   </data>
   <metadata name="OpenerTXT.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
@@ -133,5 +134,11 @@
   </metadata>
   <metadata name="SaverTXT.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>214, 17</value>
+  </metadata>
+  <metadata name="openerIMG.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>389, 17</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>116</value>
   </metadata>
 </root>
